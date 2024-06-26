@@ -12,10 +12,12 @@
 
   JSON vs XML
   ===================================================
+  
   = Text Based Format      = Markup Language        =
   = Lightweight            = Heavier                =
   = Does Not Use Tags      = Using Tags             =
   = Shorter                = Not Short              =
   = Can Use Arrays         = Cannot Use Arrays      =
   = Not Support Comments   = Support Comments       =
+  
   ===================================================
