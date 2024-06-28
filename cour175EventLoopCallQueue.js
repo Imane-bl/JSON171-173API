@@ -21,14 +21,28 @@ console.log("One");
 setTimeout(() => {
   console.log("Three");
 }, 0);
+
 setTimeout(() => {
   console.log("Four");
 }, 0);
 console.log("Two");
+// one two three four fifo console apres settimeout 
 
 setTimeout(() => {
   console.log(myVar);
 }, 0);
 
 let myVar = 100;
+
 myVar += 100;
+
+//donc les set time va fonctionne apres le myVar donc les derniers 
+/* si jai fais comme ca 
+let myVar = 100;
+console.log(myVar);
+myVar += 100; 
+*/ 
+// one two  200  three four
+
+// mais quand jajoute le setimeout va affiche 
+//one two three four 200
