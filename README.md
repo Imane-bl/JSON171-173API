@@ -41,3 +41,16 @@
   - Array
   - Boolean Values
   - null
+
+  ===================================================
+  - To Understand Ajax, Fetch, Promises
+  Asynchronous vs Synchronous Programming
+  - Meaning
+  Synchronous
+  - Operations Runs in Sequence
+  - Each Operation Must Wait For The Previous One To Complete
+  - Story From Real Life
+  Asynchronous
+  - Operations Runs In Parallel
+  - This Means That An Operation Can Occur while Another One Is Still Being Processed
+  - Story From Real Life
