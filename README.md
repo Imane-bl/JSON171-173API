@@ -45,12 +45,15 @@
   ===================================================
   - To Understand Ajax, Fetch, Promises
   Asynchronous vs Synchronous Programming
+
   - Meaning
-  Synchronous
+ ############### Synchronous
   - Operations Runs in Sequence
   - Each Operation Must Wait For The Previous One To Complete
   - Story From Real Life
-  Asynchronous
+
+  - 
+ ############ Asynchronous
   - Operations Runs In Parallel
   - This Means That An Operation Can Occur while Another One Is Still Being Processed
 
