@@ -53,4 +53,8 @@
   Asynchronous
   - Operations Runs In Parallel
   - This Means That An Operation Can Occur while Another One Is Still Being Processed
-  - Story From Real Life
+
+
+ 72  JSON
+  - JSON.parse => Convert Text Data To JS Object
+  - JSON.stringify => Convert JS Object To JSON
